@@ -10,7 +10,7 @@ Oranges are orange:
 [ ] False
 
 
-1. Course communication will happen on
+1. Course announcements will happen on
 [ ] The Teams Site
 [ ] Email
 [ ] Blackboard
@@ -20,9 +20,6 @@ Oranges are orange:
 
 2. If you need to communicate with the TAs or instructor you should
 [ ] Send an email
-[ ] Send a chat over Teams
-[ ] Use Brian's gmail 
-[ ] Slack
 
 3. The course grade is based on
 [ ] Online quizzes
@@ -36,13 +33,13 @@ Oranges are orange:
 [ ] Wednesdays at 5 PM
 
 5. Projects will be submitted via:
-[ ] The teams site
+[ ] Canvas
 [ ] Github classroom
 [ ] Personal git repos 
 [ ] Blackboard
 
 6. Major announcements will be made:
-[ ] On the General channel on the Teams site
+[ ] Canvas
 [ ] Over group email
 [ ] Over the Slack group
 [ ] Over Blackboard
